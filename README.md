@@ -22,7 +22,7 @@ JavaScript: Adds interactivity and dynamic behavior.​
 
 📁 Folder Structure plaintext Copy Edit portfolio/ ├── index.html ├── about.html ├── projects.html ├── contact.html ├── css/ │ └── styles.css ├── js/ │ └── main.js ├── images/ │ └── [project images and assets] └── README.md 📦 Getting Started To view or modify the portfolio locally:
 
-Clone the repository: git clone https://github.com/samiya2804/portfolio.git Navigate to the project directory:
+Clone the repository: git clone https://github.com/samiya2804/portfolio-new.git Navigate to the project directory:
 
 cd portfolio Open index.html in your preferred web browser:
 
