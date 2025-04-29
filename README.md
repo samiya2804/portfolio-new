@@ -1,4 +1,5 @@
-# This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information. The website is developed using HTML, Tailwind CSS, and JavaScript to ensure a responsive and interactive user experience.​
+# Personal Portfolio Website
+This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and contact information. The website is developed using HTML, Tailwind CSS, and JavaScript to ensure a responsive and interactive user experience.​
 
 🚀 Features Responsive Design: Optimized for various devices, including desktops, tablets, and mobile phones.
 
